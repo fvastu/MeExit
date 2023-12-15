@@ -11,12 +11,10 @@
         "48": "assets/icons/icon48.png",
         "128": "assets/icons/icon128.png"
     },
+    "permissions": ["activeTab", "storage", "webNavigation"],
     "content_scripts": [
         {
-            "matches": [
-                "http://*/*",
-                "https://*/*"
-            ],
+            "matches": ["https://meet.google.com/*"],
             "js": [
                 "content/content.js"
             ],
@@ -26,9 +24,6 @@
     "background": {
         "service_worker": "background/background.js"
     },
-    "permissions": [
-        "alarms"
-    ],
     "host_permissions": [
         "http://*/*",
         "https://*/*"

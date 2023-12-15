@@ -1,10 +1,10 @@
 {
     "appName": {
-        "message": "chrome-v3-ts-starter",
+        "message": "meexit",
         "description": "The name of the project"
     },
     "appDescription": {
-        "message": "Craft your Chrome Extension with Manifest V3 in just minutes",
+        "message": "Meexit Chrome extension enhances user experience, preventing accidental actions, especially closing calls or meetings, with personalized confirmation dialogs",
         "description": "The description of the extension."
     }
 }

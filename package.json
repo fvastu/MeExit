@@ -1,5 +1,5 @@
 {
-    "name": "chrome-v3-ts-starter",
+    "name": "meexit",
     "version": "1.0.0",
     "description": "A ready to use chrome manifest v3 starter with typescript, webpack",
     "main": "webpack.config.js",
