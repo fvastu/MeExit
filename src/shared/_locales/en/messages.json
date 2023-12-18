@@ -4,7 +4,6 @@
         "description": "The name of the project"
     },
     "appDescription": {
-        "message": "Meexit Chrome extension enhances user experience, preventing accidental actions, especially closing calls or meetings, with personalized confirmation dialogs",
-        "description": "The description of the extension."
+        "message": "Meexit enhances Google Meet user experience, preventing accidental actions, especially closing calls or meetings"
     }
 }
