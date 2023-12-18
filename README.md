@@ -1,5 +1,9 @@
 # MeExit Chrome Extension 🚀 Manifest V3 + TypeScript + Webpack
 
+## Demo
+
+![202312190002](https://github.com/fvastu/MeExit/assets/43243596/c468bb76-467a-4ecd-a16d-dda6029a4b1b)
+
 ## Introduction
 🚀 Welcome to MeExit, your personalized Chrome extension designed to enhance user experience during calls or meetings by preventing unexpected or involuntary call leave. 
 
