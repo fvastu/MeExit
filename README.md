@@ -1,7 +1,10 @@
-# Meexit Chrome Extension 🚀 Manifest V3 + TypeScript + Webpack
+# MeExit Chrome Extension 🚀 Manifest V3 + TypeScript + Webpack
 
 ## Introduction
-🚀 Welcome to Meexit, your personalized Chrome extension designed to enhance user experience during calls or meetings by preventing unexpected or involuntary call leave. Built using the [Chrome Extension Starter Kit](https://github.com/fvastu/chrome-v3-ts-starter) by Francesco Vasturzo, this extension follows the Manifest V3 specification, making development seamless with TypeScript and Webpack integration.
+🚀 Welcome to MeExit, your personalized Chrome extension designed to enhance user experience during calls or meetings by preventing unexpected or involuntary call leave. 
+
+## Tech Stack
+Built using the [Chrome Extension Starter Kit](https://github.com/fvastu/chrome-v3-ts-starter), this extension follows the Manifest V3 specification, making development seamless with TypeScript and Webpack integration.
 
 ## Author
 **Francesco Vasturzo**
