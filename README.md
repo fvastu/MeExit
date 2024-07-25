@@ -1,4 +1,4 @@
-# MeExit Chrome Extension 🚀 Manifest V3 + TypeScript + Webpack
+# MeExit Chrome Extension
 
 ## Demo
 
